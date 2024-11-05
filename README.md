@@ -15,9 +15,9 @@ The findings were visualized in a Power BI dashboard to provide clear, actionabl
 https://1drv.ms/x/c/217a870815163ae5/ETi6USaoUspPrRMvyVF3024B2OjhU6bE0HPwf0hRDVE59Q?e=tnklLk
 
 ----------
-```select * from [dbo].[Subscription Data  Excel Project 2]
+``` select * from [dbo].[Subscription Data  Excel Project 2]
 
-```create database Lita_SubscriptionMary
+``` create database Lita_SubscriptionMary
 
 --------Total number of customers from each region-------
 

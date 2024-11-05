@@ -84,5 +84,8 @@ COUNT(CASE WHEN Canceled = 1 THEN 1 END)
 AS CancelledSubscriptions
 FROM [dbo].[Subscription Data  Excel Project 2]
 
+---
+
+
 
 
